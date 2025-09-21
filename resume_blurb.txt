@@ -1,0 +1,1 @@
+8-Puzzle Solver (Python, BFS) — Implemented a breadth-first search solver for the classic 8-puzzle. Managed explored states using hash sets, reconstructed solution paths, and provided a command-line interface for custom start/goal states. (Python, algorithms)
