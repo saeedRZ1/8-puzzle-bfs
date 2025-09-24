@@ -27,6 +27,11 @@ python3 bfs_puzzle_8.py --goal 1 2 3 4 5 6 7 8 0 --max-nodes 100000
 ## Output
 The program prints the start and goal, then the number of moves and each intermediate state (3x3) step by step.
 
+## example
+<img width="490" height="322" alt="Screenshot 2025-09-24 211434" src="https://github.com/user-attachments/assets/57c17108-c610-47c0-b2da-72f244327133" />
+<img width="418" height="339" alt="Screenshot 2025-09-24 211446" src="https://github.com/user-attachments/assets/e0d3f6a9-8271-4473-9730-d82dbb7a97d3" />
+
+
 ## Notes / Future improvements
 - Replace BFS with A* search + Manhattan distance for performance.
 - Add move labels (Up/Down/Left/Right) instead of states.
